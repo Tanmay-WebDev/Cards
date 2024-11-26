@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(27, 27, 240);
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    width: 500px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+
+
+.card-body{
+    box-shadow: 2px 3px 4px rgb(83, 126, 139);
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgb(134, 122, 240);
+}
+
